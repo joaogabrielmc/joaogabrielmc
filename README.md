@@ -20,5 +20,4 @@ Atualmente sou Profissional da área da Tecnologia da Informação no setor de s
 </div><br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielmc&layout=compact)
 ![João Stats](https://github-readme-stats.vercel.app/api?username=joaogabrielmc&show_icons=true&theme=dark)
