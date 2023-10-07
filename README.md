@@ -3,12 +3,10 @@
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://joaog.martinsc@gmail.com)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogabrielcoelho/)
 
+Atualmente sou Profissional da área da Tecnologia da Informação no setor de suporte. Porém sou jovem e estudante de progamação com foco em fullstack Web, desde novo sempre me empolguei com o futuro, com as tecnologias, desde então venho estudando e me esforçando para entrar na área. Possuo foco em desenvolvimento em JavaScript, TypeScript, React, Node.js. Me considero uma pessoa ágil, minha paixão pelo saber, faz com que eu consiga aprender coisas novas de maneira rápida, e sempre estou pronto para superar desafios e fazer mudanças.
 
-(![João Stats](https://github-readme-stats.vercel.app/api?username=joaogabrielmc&show_icons=true&theme=dark))
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielmc&layout=compact)
-
-## Tecnologias que domino 
+## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,4 +19,6 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Atualmente sou Profissional da área da Tecnologia da Informação no setor de suporte. Porém sou jovem e estudante de progamação com foco em fullstack Web, desde novo sempre me empolguei com o futuro, com as tecnologias, desde então venho estudando e me esforçando para entrar na área. Possuo foco em desenvolvimento em JavaScript, TypeScript, React, Node.js. Me considero uma pessoa ágil, minha paixão pelo saber, faz com que eu consiga aprender coisas novas de maneira rápida, e sempre estou pronto para superar desafios e fazer mudanças.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielmc&layout=compact)
+![João Stats](https://github-readme-stats.vercel.app/api?username=joaogabrielmc&show_icons=true&theme=dark)
