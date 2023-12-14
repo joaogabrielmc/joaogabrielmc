@@ -3,8 +3,7 @@
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://joaog.martinsc@gmail.com)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogabrielcoelho/)
 
-Atualmente sou Profissional da área da Tecnologia da Informação no setor de suporte. Porém sou jovem e estudante de progamação com foco em fullstack Web, desde novo sempre me empolguei com o futuro, com as tecnologias, desde então venho estudando e me esforçando para entrar na área. Possuo foco em desenvolvimento em JavaScript, TypeScript, React, Node.js. Me considero uma pessoa ágil, minha paixão pelo saber, faz com que eu consiga aprender coisas novas de maneira rápida, e sempre estou pronto para superar desafios e fazer mudanças.
-
+#### Engenheiro de Software Jr.
 
 ## Tecnologias que eu uso no meu dia
 
