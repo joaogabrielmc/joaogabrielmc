@@ -45,14 +45,3 @@ Apaixonado por tecnologia, desenvolvimento web e resolução de problemas. Atuo 
 - 🤝 Aberto para colaborações e novos projetos.  
 
 ---
-
-## 🚀 Projetos em Destaque  
-
-🔹 [**Simulador de Consórcios**](#) – Aplicação fullstack para simulação de contempladas, com **Vue.js + Spring Boot**.  
-🔹 [**Sistema de Integração com Administradoras**](#) – API RESTful para conectar diferentes plataformas.  
-🔹 [**Dashboard Comercial**](#) – Painel interativo em **React + TailwindCSS** para análise de KPIs e forecast de vendas.  
-🔹 [**Ferramentas Internas de Automação**](#) – Scripts e sistemas que reduziram em até **45% o tempo manual** de processos.  
-
----
-
-⭐ Se gostou do meu trabalho, não esqueça de deixar uma **star** nos meus repositórios!  
