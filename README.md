@@ -1,47 +1,322 @@
-# 👋 Olá, eu sou o João Gabriel  
+<div align="center">
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaog.martinsc@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogabrielcoelho/)  
+# 👋 João Coelho
 
-## 🚀 Desenvolvedor Fullstack  
+### Software Engineer · Product Builder · Fintech · Automação & IA
 
-Apaixonado por tecnologia, desenvolvimento web e resolução de problemas. Atuo tanto no **frontend** quanto no **backend**, sempre buscando escrever código limpo, escalável e bem documentado.  
+**Transformando operações complexas em software simples, automatizado e escalável.**
 
----
+<br>
 
-## 🛠️ Tecnologias & Ferramentas  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joaogabrielcoelho/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://joao-portfolio-chi.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:joao.coelho@synertia.com.br)
 
-### Frontend  
-<div style="display: inline_block">
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
-</div>  
+</div>
 
-### Backend  
-<div style="display: inline_block">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</div>  
+<br>
 
 ---
 
-## 📊 GitHub Stats  
-![João Stats](https://github-readme-stats.vercel.app/api?username=joaogabrielmc&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielmc&layout=compact&theme=dark)  
+## Sobre mim
+
+Sou desenvolvedor de software com forte interesse na interseção entre **tecnologia, automação e mercado financeiro**.
+
+Construo produtos digitais com foco em resolver problemas operacionais reais — desde plataformas SaaS e sistemas financeiros até automações, integrações, agentes de IA e ferramentas internas.
+
+Para mim, desenvolver um sistema também significa entender **processo, operação, custo, eficiência e escala**.
+
+```ts
+const joao = {
+  trabalho: "Software Engineering",
+  especialidades: ["SaaS", "Fintech", "Automação", "IA"],
+
+  gostoDeConstruir: [
+    "Produtos digitais",
+    "Sistemas financeiros",
+    "Automações",
+    "Integrações",
+    "Ferramentas que eliminam trabalho manual"
+  ],
+
+  principio: "Tecnologia deve simplificar a operação, não complicá-la."
+};
+```
 
 ---
 
-## 💡 Sobre mim  
-- 👨‍💻 Desenvolvedor **Fullstack** apaixonado por tecnologia.  
-- 📚 Sempre estudando novas linguagens e frameworks.  
-- 🎯 Foco em criar aplicações escaláveis e eficientes.  
-- 🤝 Aberto para colaborações e novos projetos.  
+## ⚡ O que eu faço
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Engenharia de Produto
+
+Transformo regras de negócio e processos operacionais em produtos digitais.
+
+`SaaS` `Multi-tenant` `APIs` `RBAC` `Workers` `Queues`
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Fintech
+
+Desenvolvo soluções relacionadas a operações financeiras e crédito.
+
+`Crédito` `Consórcio` `Comissões` `Propostas` `Simulação` `Dashboards`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 IA & Automação
+
+Construo fluxos onde software interpreta informações e executa processos.
+
+`AI Agents` `LLMs` `RPA` `Playwright` `Workflows` `WhatsApp`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 Integrações
+
+Conecto plataformas, APIs e serviços para criar operações integradas.
+
+`REST` `Webhooks` `Events` `WhatsApp APIs` `Financial APIs`
+
+</td>
+</tr>
+</table>
 
 ---
+
+## 🧠 Minha forma de construir
+
+Não começo pela tecnologia.
+
+Começo entendendo **o problema**.
+
+```text
+Problema operacional
+        │
+        ▼
+Entender o processo
+        │
+        ▼
+Mapear regras de negócio
+        │
+        ▼
+Eliminar complexidade desnecessária
+        │
+        ▼
+Projetar a solução
+        │
+        ▼
+Automatizar
+        │
+        ▼
+Medir
+        │
+        ▼
+Evoluir & Escalar
+```
+
+> **Código é uma ferramenta. O produto é a solução.**
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+### Core
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,vue,nuxt,react,python" />
+
+### Backend & Dados
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,rabbitmq" />
+
+### Infraestrutura & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github" />
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+
+</div>
+
+<br>
+
+Também trabalho com:
+
+<div align="center">
+
+`Fastify` · `Prisma` · `Drizzle ORM` · `Playwright` · `REST APIs` · `Webhooks` · `Workers` · `Queues` · `LLMs` · `RPA`
+
+</div>
+
+---
+
+## 🔬 Áreas que estou explorando
+
+```yaml
+ai:
+  - AI Agents
+  - LLM Applications
+  - Context-aware automation
+  - Intelligent workflows
+
+software:
+  - SaaS Architecture
+  - Distributed Systems
+  - Event-driven Architecture
+  - Background Processing
+
+automation:
+  - RPA
+  - Browser Automation
+  - Operational Workflows
+  - WhatsApp Automation
+
+business:
+  - Fintech
+  - Credit Operations
+  - Financial Management
+  - Business Intelligence
+```
+
+Meu principal interesse atualmente é construir sistemas que não apenas armazenem dados, mas consigam:
+
+**entender → decidir → executar → medir → aprender**
+
+---
+
+## 🚀 Tipos de produtos que gosto de construir
+
+<div align="center">
+
+|     | Área            | Exemplos                                   |
+| :-: | --------------- | ------------------------------------------ |
+|  💳 | **Fintech**     | Crédito, consórcio, propostas e simulações |
+|  📊 | **Gestão**      | Dashboards, indicadores e controladoria    |
+|  🤖 | **IA**          | Agentes, análise e automação inteligente   |
+|  ⚙️ | **Automação**   | RPA, workers e processos operacionais      |
+|  💬 | **Comunicação** | WhatsApp, atendimento e workflows          |
+|  🔌 | **Integrações** | APIs, webhooks e sincronização de sistemas |
+|  ☁️ | **SaaS**        | Multi-tenant, permissões e produtos B2B    |
+
+</div>
+
+---
+
+## 💭 Engenharia + Negócio
+
+Uma das coisas que mais valorizo é conseguir transitar entre **regra de negócio e implementação técnica**.
+
+Quando analiso um projeto, não penso apenas:
+
+> Como vamos programar isso?
+
+Também quero saber:
+
+> Por que fazemos isso dessa forma?
+
+> Qual problema estamos realmente resolvendo?
+
+> Onde existe trabalho manual desnecessário?
+
+> Qual é o impacto financeiro dessa operação?
+
+> O que acontece quando multiplicarmos isso por 10?
+
+Essa combinação entre **software + visão financeira + operação** influencia diretamente a maneira como projeto produtos.
+
+---
+
+## 🧪 `/lab`
+
+```bash
+joao@dev:~$ ls ./lab
+
+├── ai-agents/
+├── automation/
+├── fintech/
+├── integrations/
+├── rpa/
+├── saas/
+├── data/
+└── infrastructure/
+
+joao@dev:~$ █
+```
+
+Sempre tem alguma coisa sendo construída, alguma ideia nova, algum teste...
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=joaogabrielmc&show_icons=true&hide_border=true&theme=transparent&locale=pt-br&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielmc&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=joaogabrielmc&theme=transparent&hide_border=true&locale=pt_BR" />
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/joaogabrielmc/joaogabrielmc/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🎯 Atualmente
+
+```text
+→ Construindo produtos SaaS
+→ Desenvolvendo soluções para operações financeiras
+→ Automatizando processos complexos
+→ Experimentando com agentes de IA
+→ Integrando sistemas e APIs
+→ Transformando trabalho manual em software
+```
+
+---
+
+<div align="center">
+
+### Sistemas melhores. Operações mais simples. Negócios mais escaláveis.
+
+<br>
+
+**Software Engineering · SaaS · Fintech · IA · Automação**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge\&logo=github)](https://github.com/joaogabrielmc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/joaogabrielcoelho/)
+
+<br>
+
+<sub>Construindo produtos que transformam processos em software.</sub>
+
+</div>
