@@ -1,12 +1,24 @@
+<div align="center">
+
 # 👋 João Coelho
 
 ### Software Engineer · Product Builder · Fintech · Automação & IA
 
 **Transformando operações complexas em software simples, automatizado e escalável.**
 
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogabrielcoelho/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://joao-portfolio-chi.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.coelho@synertia.com.br)
+
+</div>
+
+<br>
+
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou desenvolvedor de software com forte interesse na interseção entre **tecnologia, automação e mercado financeiro**.
 
@@ -35,51 +47,80 @@ const joao = {
 
 ## ⚡ O que eu faço
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏗️ Engenharia de Produto
 
 Transformo regras de negócio e processos operacionais em produtos digitais.
 
-`SaaS` · `Multi-tenant` · `APIs` · `RBAC` · `Workers` · `Queues`
+`SaaS` `Multi-tenant` `APIs` `RBAC` `Workers` `Queues`
+
+</td>
+<td width="50%" valign="top">
 
 ### 💰 Fintech
 
 Desenvolvo soluções relacionadas a operações financeiras e crédito.
 
-`Crédito` · `Consórcio` · `Comissões` · `Propostas` · `Simulação` · `Dashboards`
+`Crédito` `Consórcio` `Comissões` `Propostas` `Simulação` `Dashboards`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 IA & Automação
 
 Construo fluxos onde software interpreta informações e executa processos.
 
-`AI Agents` · `LLMs` · `RPA` · `Playwright` · `Workflows` · `WhatsApp`
+`AI Agents` `LLMs` `RPA` `Playwright` `Workflows` `WhatsApp`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🔌 Integrações
 
 Conecto plataformas, APIs e serviços para criar operações integradas.
 
-`REST` · `Webhooks` · `Events` · `WhatsApp APIs` · `Financial APIs`
+`REST` `Webhooks` `Events` `WhatsApp APIs` `Financial APIs`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧠 Minha forma de construir
 
-Não começo pela tecnologia. Começo entendendo **o problema**.
+Não começo pela tecnologia.
+
+Começo entendendo **o problema**.
 
 ```text
 Problema operacional
-        ↓
+        │
+        ▼
 Entender o processo
-        ↓
+        │
+        ▼
 Mapear regras de negócio
-        ↓
+        │
+        ▼
 Eliminar complexidade desnecessária
-        ↓
+        │
+        ▼
 Projetar a solução
-        ↓
+        │
+        ▼
 Automatizar
-        ↓
+        │
+        ▼
 Medir
-        ↓
+        │
+        ▼
 Evoluir & Escalar
 ```
 
@@ -89,38 +130,35 @@ Evoluir & Escalar
 
 ## 🛠️ Tecnologias
 
+<div align="center">
+
 ### Core
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-![Vue.js](https://img.shields.io/badge/Vue.js-111827?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt](https://img.shields.io/badge/Nuxt-111827?style=for-the-badge&logo=nuxt&logoColor=00DC82)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=ts,nodejs,vue,nuxt,react,python" />
 
 ### Backend & Dados
 
-![Fastify](https://img.shields.io/badge/Fastify-111827?style=for-the-badge&logo=fastify&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=FF4438)
-![Prisma](https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,rabbitmq" />
 
 ### Infraestrutura & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
-![NGINX](https://img.shields.io/badge/NGINX-111827?style=for-the-badge&logo=nginx&logoColor=009639)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github" />
 
-### Automação & IA
+### Ferramentas
 
-![Playwright](https://img.shields.io/badge/Playwright-111827?style=for-the-badge&logo=playwright&logoColor=2EAD33)
-![OpenAI](https://img.shields.io/badge/IA_&_LLMs-111827?style=for-the-badge&logo=openai&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_APIs-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366)
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
 
-Também trabalho com `Drizzle ORM`, `REST APIs`, `Webhooks`, `Workers`, `Queues`, `RPA` e arquiteturas orientadas a eventos.
+</div>
+
+<br>
+
+Também trabalho com:
+
+<div align="center">
+
+`Fastify` · `Prisma` · `Drizzle ORM` · `Playwright` · `REST APIs` · `Webhooks` · `Workers` · `Queues` · `LLMs` · `RPA`
+
+</div>
 
 ---
 
@@ -130,8 +168,8 @@ Também trabalho com `Drizzle ORM`, `REST APIs`, `Webhooks`, `Workers`, `Queues`
 ai:
   - AI Agents
   - LLM Applications
-  - Context-aware Automation
-  - Intelligent Workflows
+  - Context-aware automation
+  - Intelligent workflows
 
 software:
   - SaaS Architecture
@@ -154,21 +192,25 @@ business:
 
 Meu principal interesse atualmente é construir sistemas que não apenas armazenem dados, mas consigam:
 
-**entender → decidir → executar → medir → evoluir**
+**entender → decidir → executar → medir → aprender**
 
 ---
 
 ## 🚀 Tipos de produtos que gosto de construir
 
-| | Área | Exemplos |
-|:--:|---|---|
-| 💳 | **Fintech** | Crédito, consórcio, propostas e simulações |
-| 📊 | **Gestão** | Dashboards, indicadores e controladoria |
-| 🤖 | **IA** | Agentes, análise e automação inteligente |
-| ⚙️ | **Automação** | RPA, workers e processos operacionais |
-| 💬 | **Comunicação** | WhatsApp, atendimento e workflows |
-| 🔌 | **Integrações** | APIs, webhooks e sincronização de sistemas |
-| ☁️ | **SaaS** | Multi-tenant, permissões e produtos B2B |
+<div align="center">
+
+|     | Área            | Exemplos                                   |
+| :-: | --------------- | ------------------------------------------ |
+|  💳 | **Fintech**     | Crédito, consórcio, propostas e simulações |
+|  📊 | **Gestão**      | Dashboards, indicadores e controladoria    |
+|  🤖 | **IA**          | Agentes, análise e automação inteligente   |
+|  ⚙️ | **Automação**   | RPA, workers e processos operacionais      |
+|  💬 | **Comunicação** | WhatsApp, atendimento e workflows          |
+|  🔌 | **Integrações** | APIs, webhooks e sincronização de sistemas |
+|  ☁️ | **SaaS**        | Multi-tenant, permissões e produtos B2B    |
+
+</div>
 
 ---
 
@@ -176,13 +218,21 @@ Meu principal interesse atualmente é construir sistemas que não apenas armazen
 
 Uma das coisas que mais valorizo é conseguir transitar entre **regra de negócio e implementação técnica**.
 
-Quando analiso um projeto, não penso apenas em **como programar**, mas também em:
+Quando analiso um projeto, não penso apenas:
 
-- qual problema estamos realmente resolvendo;
-- onde existe trabalho manual desnecessário;
-- qual é o impacto financeiro da operação;
-- como simplificar o processo;
-- o que acontece quando a operação cresce 10x.
+> Como vamos programar isso?
+
+Também quero saber:
+
+> Por que fazemos isso dessa forma?
+
+> Qual problema estamos realmente resolvendo?
+
+> Onde existe trabalho manual desnecessário?
+
+> Qual é o impacto financeiro dessa operação?
+
+> O que acontece quando multiplicarmos isso por 10?
 
 Essa combinação entre **software + visão financeira + operação** influencia diretamente a maneira como projeto produtos.
 
@@ -211,17 +261,31 @@ Sempre tem alguma coisa sendo construída, alguma ideia nova, algum teste...
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaogabrielmc&show_icons=true&hide_border=true&theme=github_dark&locale=pt-br)
+<div align="center">
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielmc&layout=compact&hide_border=true&theme=github_dark&langs_count=8)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=joaogabrielmc&show_icons=true&hide_border=true&theme=transparent&locale=pt-br" />
 
-> Os cards acima dependem de serviços externos. Se algum deles ficar indisponível temporariamente, o restante do README continua funcionando normalmente.
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielmc&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=joaogabrielmc&theme=transparent&hide_border=true&locale=pt_BR" />
+
+</div>
 
 ---
 
 ## 🐍 Contribuições
 
-> A animação de contribuições será exibida aqui depois que o workflow da Snake gerar os arquivos na branch `output`.
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaogabrielmc/joaogabrielmc/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaogabrielmc/joaogabrielmc/output/github-contribution-grid-snake.svg">
+  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/joaogabrielmc/joaogabrielmc/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ---
 
@@ -238,10 +302,21 @@ Sempre tem alguma coisa sendo construída, alguma ideia nova, algum teste...
 
 ---
 
+<div align="center">
+
 ### Sistemas melhores. Operações mais simples. Negócios mais escaláveis.
+
+<br>
 
 **Software Engineering · SaaS · Fintech · IA · Automação**
 
-[![GitHub](https://img.shields.io/badge/GitHub-joaogabrielmc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaogabrielmc)
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaogabrielmc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogabrielcoelho/)
+
+<br><br>
 
 <sub>Construindo produtos que transformam processos em software.</sub>
+
+</div>
