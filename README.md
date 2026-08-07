@@ -267,7 +267,7 @@ Sempre tem alguma coisa sendo construída, alguma ideia nova, algum teste...
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielmc&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
 
-<br>
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=joaogabrielmc&theme=transparent&hide_border=true&locale=pt_BR" />
 
@@ -280,9 +280,18 @@ Sempre tem alguma coisa sendo construída, alguma ideia nova, algum teste...
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaogabrielmc/joaogabrielmc/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaogabrielmc/joaogabrielmc/output/github-contribution-grid-snake.svg">
-  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/joaogabrielmc/joaogabrielmc/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/joaogabrielmc/joaogabrielmc/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/joaogabrielmc/joaogabrielmc/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Animação das contribuições de João Gabriel"
+    src="https://raw.githubusercontent.com/joaogabrielmc/joaogabrielmc/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
@@ -295,7 +304,6 @@ Sempre tem alguma coisa sendo construída, alguma ideia nova, algum teste...
 → Construindo produtos SaaS
 → Desenvolvendo soluções para operações financeiras
 → Automatizando processos complexos
-→ Experimentando com agentes de IA
 → Integrando sistemas e APIs
 → Transformando trabalho manual em software
 ```
